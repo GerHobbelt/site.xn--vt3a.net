@@ -1,7 +1,7 @@
 {
-  "name": "bermuda-holding.com",
+  "name": "xn--vt3a.net",
   "version": "1.0.0-1",
-  "description": "website: bermuda-holding.com",
+  "description": "website: xn--vt3a.net",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -16,10 +16,10 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/GerHobbelt/site.bermuda-holding.com.git"
+    "url": "git+ssh://git@github.com/GerHobbelt/site.xn--vt3a.net.git"
   },
   "bugs": {
-    "url": "https://github.com/GerHobbelt/site.bermuda-holding.com/issues"
+    "url": "https://github.com/GerHobbelt/site.xn--vt3a.net/issues"
   },
-  "homepage": "https://github.com/GerHobbelt/site.bermuda-holding.com#readme"
+  "homepage": "https://github.com/GerHobbelt/site.xn--vt3a.net#readme"
 }
